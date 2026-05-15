@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/kadal/Downloads/DS410/Internship%20Jan/MLOPS/Tasks/Sentiment_Analysis_MLflow/Sentiment_Analysis_MLflow/mlruns/465965958444582495/models/m-a1853994683a4f778f4e3a699092cedf/artifacts
+creation_timestamp: 1778826605692
+experiment_id: '465965958444582495'
+last_updated_timestamp: 1778826608789
+model_id: m-a1853994683a4f778f4e3a699092cedf
+model_type: null
+name: svm_model
+source_run_id: 0ae230f7b29749bf89d9b2f9242498c2
+status: 2
+status_message: null

@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/kadal/Downloads/DS410/Internship%20Jan/MLOPS/Tasks/Sentiment_Analysis_MLflow/Sentiment_Analysis_MLflow/mlruns/465965958444582495/models/m-7bcf5c1631b641008f72b1a06e69a9c4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-7bcf5c1631b641008f72b1a06e69a9c4
+model_size_bytes: 6800
+model_uuid: m-7bcf5c1631b641008f72b1a06e69a9c4
+prompts: null
+run_id: 55cef82ec0f44e42bf265638a7be7759
+utc_time_created: '2026-05-15 06:29:59.777114'

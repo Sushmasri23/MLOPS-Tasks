@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/kadal/Downloads/DS410/Internship Jan/MLOPS/Tasks/Sentiment_Analysis_MLflow/Sentiment_Analysis_MLflow/mlruns/462083765857740732/566e720b5ae54c298558fbdd44a21f77/artifacts
+end_time: 1778824328349
+entry_point_name: ''
+experiment_id: '462083765857740732'
+lifecycle_stage: active
+run_id: 566e720b5ae54c298558fbdd44a21f77
+run_name: SVM_C_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778824325496
+status: 3
+tags: []
+user_id: kadal

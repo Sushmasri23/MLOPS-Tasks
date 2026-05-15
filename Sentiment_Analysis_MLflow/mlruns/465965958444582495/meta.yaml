@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/kadal/Downloads/DS410/Internship%20Jan/MLOPS/Tasks/Sentiment_Analysis_MLflow/Sentiment_Analysis_MLflow/mlruns/465965958444582495
+creation_time: 1778826599086
+experiment_id: '465965958444582495'
+last_update_time: 1778826599086
+lifecycle_stage: active
+name: Prefect_SVM_Experiment
+trace_location: null
+workspace: default
